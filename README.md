@@ -1,3 +1,3 @@
 # master
-just a test
+just a test :)
 Hello world
